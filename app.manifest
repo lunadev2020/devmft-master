@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity type="win32" name="multipinmft" version="1.0.0.0"></assemblyIdentity>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.AI.Skills.SkillInterfacePreview" version="1.0.0.0"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.AI.Skills.Vision.ObjectDetectorPreview" version="1.0.0.0"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+</assembly>
